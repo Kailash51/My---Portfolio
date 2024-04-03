@@ -1,10 +1,16 @@
 import React,{useEffect} from 'react'
-import Sandesh from '../assets/projects/sandeshh.png'
-import Gist from '../assets/projects//gist.png'
-import Chatbot from '../assets/projects/chatbot.png'
 import Ide from '../assets/projects/ide.png'
-import ShopEasy from '../assets/projects/shopeasy.png'
-import Upscale from '../assets/projects/upscale.png'
+import Altitude from '../assets/projects/Altitude Master.png'
+import Amazon from '../assets/projects/Amazon.png'
+import Compress from '../assets/projects/File compression.png'
+import News from '../assets/projects/News App.png'
+import Sales from '../assets/projects/Sales Insights.png'
+// // import Sandesh from '../assets/projects/sandeshh.png'
+// import Gist from '../assets/projects//gist.png'
+// import Chatbot from '../assets/projects/chatbot.png'
+// // import Ide from '../assets/projects/ide.png'
+// import ShopEasy from '../assets/projects/shopeasy.png'
+// import Upscale from '../assets/projects/upscale.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -16,55 +22,55 @@ const Projects = () => {
   const Projects = () => [
     {
       id: 1,
-      src: Sandesh,
-      desc: "Sandesh is a Chat App made using ReactJS + Tailwind CSS + ChatEngine API Service + Firebase authentication...",
-      demo: "https://sandeshh.netlify.app/",
-      code: "https://github.com/dipayansarkar47/Sandesh"
+      src: Ide,
+      desc: "CodifyHub is a Code Editor made using ReactJS + CSS + Context API Service + CodeMirror Library",
+      demo: "https://kailash51.github.io/CodifyHub/",
+      code: "https://github.com/Kailash51/CodifyHub"
     },
     {
       id: 2,
-      src: ShopEasy,
-      desc: "This Full-Stack ShopKaro e-commerce website is made using ReactJS, Tailwind CSS, Firebase....",
-      demo: "https://shopeasyy.vercel.app/",
-      code: "https://github.com/dipayansarkar47/shopeasy"
+      src: Altitude,
+      desc: "This is a Height Measuring Tools website is made using HTML + CSS + JavaScript....",
+      demo: "https://kailash51.github.io/Altitude-Master/",
+      code: "https://github.com/Kailash51/Altitude-Master"
     },
     {
       id: 3,
-      src: Chatbot,
-      desc: "An Artificially Intelligent Chatbot using the GPT-4 Model to help people.",
-      demo: "https://cwbbot.vercel.app/",
-      code: "https://github.com/dipayansarkar47/ai-chatbot"
+      src: Amazon,
+      desc: "This is a E-commerce Website Made using HTML + CSS...",
+      demo: "https://kailash51.github.io/My-Amazon-clone/",
+      code: "https://github.com/Kailash51/Amazon-clone"
     },
     {
       id: 4,
-      src: Ide,
-      // desc: "Keeper is a simple note taking application made using Flutter...",
-      demo: "https://opeditor.vercel.app/",
-      code: "https://github.com/dipayansarkar47/online-code-editor"
+      src: Compress,
+      desc: "File Compression is about compressing and decompressing files using a technique called Huffman coding...",
+      demo: "https://github.com/Kailash51/AlgoZip",
+      code: "https://github.com/Kailash51/AlgoZip"
     },
     {
       id: 5,
-      src: Upscale,
-      // desc: "It is a Weather application which shows temperatures of various cities across the globe made using REST API...",
-      demo: "https://upscaleai.vercel.app/",
-      code: "https://github.com/dipayansarkar47/upscale-ai"
+      src: News,
+      desc: "It is a News application which shows Real Time News of various cities across the globe made using News API...",
+      demo: "https://kailash51.github.io/Real-Time-News-App/",
+      code: "https://github.com/Kailash51/Real-Time-News-App"
     },
     {
       id: 6,
-      src: Gist,
-      // desc: "It is a Face-Detection application made using Python and Computer Vision...",
-      demo: "https://gist-ai.vercel.app/",
-      code: "https://github.com/dipayansarkar47/Gist.AI-Summarizer"
+      src: Sales,
+      desc: "Sales Insights is a Attractive Dashboard Made Using Power BI + SQL...",
+      demo: "https://github.com/Kailash51/Sales-Insights",
+      code: "https://github.com/Kailash51/Sales-Insightsr"
     },
   ]
 
 
   return (
-    <div name="projects" className='h-auto max-h-screen-lg  bg-gradient-to-b from-black to-gray-800 w-full text-white
+    <div name="projects" className='py-10 h-auto max-h-screen-lg  bg-gradient-to-b from-black to-gray-800 w-full text-white
      md:h-screen'>
-      <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
-        <div className='pb-8'>
-          <h2 className='text-4xl font-bold inline border-b-4 border-gray-400'>Projects</h2>
+      <div className='py-10 max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
+        <div className='pb-0'>
+          <h2 className='text-4xl font-bold inline border-b-2 border-gray-400'>Projects</h2>
           <p className='py-6'>Check out some of my work </p>
         </div>
         <div   className='grid sm:grid-cols-2 md:grid-cols-3 mb-20 gap-8 px-12 sm:px-0'>
