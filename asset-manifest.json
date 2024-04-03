@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/My---Portfolio/static/css/main.f5f18002.css",
+    "main.js": "/My---Portfolio/static/js/main.abd3f122.js",
+    "static/js/787.f5325387.chunk.js": "/My---Portfolio/static/js/787.f5325387.chunk.js",
+    "static/media/Altitude Master.png": "/My---Portfolio/static/media/Altitude Master.3c42a2914f3e6b60e33f.png",
+    "static/media/File compression.png": "/My---Portfolio/static/media/File compression.834385ecf29d17dc4560.png",
+    "static/media/News App.png": "/My---Portfolio/static/media/News App.1d5c76a3385b4105d871.png",
+    "static/media/Sales Insights.png": "/My---Portfolio/static/media/Sales Insights.457769ccf48fdbc12995.png",
+    "static/media/Amazon.png": "/My---Portfolio/static/media/Amazon.140b04e5fbe6dd17adab.png",
+    "static/media/Dp.png": "/My---Portfolio/static/media/Dp.d98a454762aea8fbcb2a.png",
+    "static/media/ide.png": "/My---Portfolio/static/media/ide.e76b9b8f6be04b540365.png",
+    "static/media/python.png": "/My---Portfolio/static/media/python.c51d40980f76d37e747d.png",
+    "static/media/react.png": "/My---Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/flutter.png": "/My---Portfolio/static/media/flutter.ed72a48ae8dedc1bde5f.png",
+    "static/media/html.png": "/My---Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/My---Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/My---Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/My---Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/My---Portfolio/index.html",
+    "main.f5f18002.css.map": "/My---Portfolio/static/css/main.f5f18002.css.map",
+    "main.abd3f122.js.map": "/My---Portfolio/static/js/main.abd3f122.js.map",
+    "787.f5325387.chunk.js.map": "/My---Portfolio/static/js/787.f5325387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f18002.css",
+    "static/js/main.abd3f122.js"
+  ]
+}
